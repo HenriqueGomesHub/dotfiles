@@ -1,0 +1,15 @@
+{
+  "theme": "dark",
+  "fontSize": 14,
+  "tabSize": 2,
+  "wordWrap": "on",
+  "autosave": true,
+  "formatOnSave": true,
+  "sync": {
+    "interval": 300,
+    "devices": [
+      "7ecaa94bcb83d81362a94fafd17847b83b3db931",
+      "e5c3992601e853bf863be9c0dcd37fc1445e312e"
+    ]
+  }
+}
